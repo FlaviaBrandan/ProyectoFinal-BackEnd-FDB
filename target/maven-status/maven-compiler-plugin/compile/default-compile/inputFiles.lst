@@ -12,13 +12,13 @@ C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backe
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Controller\CExperiencia.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Security\Dto\NuevoUsuario.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Repository\Rhys.java
+C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Dto\dtoPersona.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Repository\RExperiencia.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Security\jwt\JwtEntryPoint.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Entity\hys.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Entity\Persona.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Security\Enums\RolNombre.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Service\SExperiencia.java
-C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Interface\IPersonaService.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Controller\CEducacion.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Security\Controller\AuthController.java
 C:\Users\flabr\OneDrive\Documentos\Argentina Programa\Portfolio_ BrandanFD\backend\src\main\java\com\portfolio\backend\Security\MainSecurity.java

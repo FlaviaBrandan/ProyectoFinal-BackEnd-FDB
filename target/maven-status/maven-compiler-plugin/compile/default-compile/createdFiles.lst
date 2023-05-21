@@ -6,11 +6,11 @@ com\portfolio\backend\Controller\CEducacion.class
 com\portfolio\backend\Security\Controller\AuthController.class
 com\portfolio\backend\Security\MainSecurity.class
 com\portfolio\backend\Dto\dtoEducacion.class
+com\portfolio\backend\Dto\dtoPersona.class
 com\portfolio\backend\Security\Dto\NuevoUsuario.class
 com\portfolio\backend\Service\ImpPersonaService.class
 com\portfolio\backend\Security\Service\UsuarioService.class
 com\portfolio\backend\Dto\dtoHys.class
-com\portfolio\backend\Interface\IPersonaService.class
 com\portfolio\backend\Service\Shys.class
 com\portfolio\backend\Service\SExperiencia.class
 com\portfolio\backend\Controller\PersonaController.class
